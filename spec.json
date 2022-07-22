@@ -909,7 +909,7 @@
       }
     },
     "/reportendpoint": {
-      "get": {
+      "report": {
         "produces": [
           "application/json"
         ], 
